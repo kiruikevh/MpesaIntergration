@@ -1,6 +1,6 @@
-﻿namespace WebApplication1
+﻿namespace WebApplication1.Models
 {
-    
+
     public class MpesaCallback
     {
         public Body Body { get; set; }

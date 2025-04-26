@@ -2,7 +2,8 @@
 using System.Text;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-namespace WebApplication1
+using WebApplication1.Models;
+namespace WebApplication1.Controllers
 {
     //get access token
     public class MpesaAuthService
