@@ -1,0 +1,48 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio user-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore logs
+*.log
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+
+# Ignore nuget packages
+*.nupkg
+packages/
+
+# Ignore the .vs folder (Visual Studio folder)
+.vs/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Test results
+TestResults/
+
+# Ignore publish folder
+publish/
+# Ignore ApplicationSettings.json
+appsettings.json
